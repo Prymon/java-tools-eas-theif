@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: libs/fastjson-1.2.32.jar libs/jsoup-1.10.3.jar
+Main-Class: com.prymon.tools.eastheif.Downloader
+
